@@ -7,6 +7,7 @@
     "start": "tsx src/index.ts",
     "dev": "tsx src/index.ts --now",
     "login": "tsx src/scraper/login.ts",
+    "view": "tsx src/utils/viewData.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
